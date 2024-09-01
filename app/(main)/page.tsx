@@ -22,7 +22,7 @@ import {
 import { AnimatePresence, motion } from "framer-motion";
 import { FormEvent, useEffect, useState } from "react";
 import LoadingDots from "../../components/loading-dots";
-import { shareApp } from "./actions";
+//import { shareApp } from "./actions";
 import { domain } from "@/utils/domain";
 
 export default function Home() {
